@@ -13,4 +13,8 @@ signed main(){
         sum += x;
     }
     cout << (int)((t*(t+1))>>1)-sum << endl;
+ /*
+ 2020-08-10 
+ 21:58:27
+ */
     
